@@ -1,0 +1,1 @@
+6a058848c41eca905e19ff3fbb4dbaa587ff51a7df95595fbe3a25c74f7da25c  xmrig-x86-64
